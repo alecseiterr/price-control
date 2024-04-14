@@ -3,7 +3,7 @@
 ## <div align="center">Установка EasyOCR</div>
 
 <details open>
-<summary>Install</summary>
+<summary>Установка</summary>
 
 
 For the latest stable release:
@@ -28,7 +28,7 @@ Note 2: We also provide a Dockerfile [here](https://github.com/JaidedAI/EasyOCR/
 See below for a quickstart installation and usage example, and see the [YOLOv8 Docs](https://docs.ultralytics.com) for full documentation on training, validation, prediction and deployment.
 
 <details open>
-<summary>Install</summary>
+<summary>Установка</summary>
 
 Pip install the ultralytics package including all [requirements](https://github.com/ultralytics/ultralytics/blob/main/pyproject.toml) in a [**Python>=3.8**](https://www.python.org/) environment with [**PyTorch>=1.8**](https://pytorch.org/get-started/locally/).
 
