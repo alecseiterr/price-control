@@ -18,7 +18,7 @@ pip install easyocr
 pip install git+https://github.com/JaidedAI/EasyOCR.git
 ```
 
-Примечение 1: При установке в ОС Windows, необходимо сначала установить torch и torchvision в соответствии с официальной инструкцией https://pytorch.org. НА сайте pytorch, убедитесь, что вы выбрали правильную версию CUDA. Для запуска на CPU, выберите `CUDA = None`.
+Примечение 1: При установке в ОС Windows, необходимо сначала установить torch и torchvision в соответствии с официальной инструкцией https://pytorch.org. На сайте pytorch, убедитесь, что вы выбрали правильную версию CUDA. Для запуска на CPU, выберите `CUDA = None`.
 
 Примечение 2: По данной ссылке также доступен Dockerfile [here](https://github.com/JaidedAI/EasyOCR/blob/master/Dockerfile).
 </details>
@@ -38,6 +38,6 @@ Pip установит все необходимые ultralytics пакеты в
 pip install ultralytics
 ```
 
-Альтернативные методы установки включают [Conda](https://anaconda.org/conda-forge/ultralytics), [Docker](https://hub.docker.com/r/ultralytics/ultralytics), и Git. Пожалуйста, ищите более подробную информацию в [Инструкция по быстрой установке](https://docs.ultralytics.com/quickstart).
+Альтернативные методы установки включают [Conda](https://anaconda.org/conda-forge/ultralytics), [Docker](https://hub.docker.com/r/ultralytics/ultralytics), и Git. Пожалуйста, ищите более подробную информацию здесь - [Инструкция по быстрой установке](https://docs.ultralytics.com/quickstart).
 
 </details>
