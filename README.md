@@ -25,7 +25,7 @@ Note 2: We also provide a Dockerfile [here](https://github.com/JaidedAI/EasyOCR/
 
 ## <div align="center">Установка YOLOv8</div>
 
-See below for a quickstart installation and usage example, and see the [YOLOv8 Docs](https://docs.ultralytics.com) for full documentation on training, validation, prediction and deployment.
+Ниже представлена краткая инструкцияя по установке. Полная документация доступна по ссылке [YOLOv8 Docs](https://docs.ultralytics.com).
 
 <details open>
 <summary>Установка</summary>
