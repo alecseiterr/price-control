@@ -127,7 +127,7 @@ def get_keyboard():
         ],
         [
             InlineKeyboardButton(
-                "Узнать цену по фото и ближайший магазин", callback_data="photo_with_coords"
+                "Отправить на контроль ценник и магазин", callback_data="photo_with_coords"
             )
         ],
         [
